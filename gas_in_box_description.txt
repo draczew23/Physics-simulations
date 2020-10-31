@@ -1,0 +1,1 @@
+This simple program simulates the behavior of particles of gas in a box. Color represents the value of the velocity which is randomly generated for each particle.
